@@ -3,34 +3,32 @@
 As a **computer systems enthusiast**, I specialize in **scalable and robust systems** for **large-scale AI**. My primary focus includes:  
 - **High-Performance & Parallel Computing** (CUDA, OpenMP)  
 - **Distributed Training** (EP, DP, PP, TP)  
-- **ML Frameworks** ([PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/))  
+- **ML Frameworks** (<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">PyTorch</a>, <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">TensorFlow</a>)  
 - **Systems Optimization** for advanced AI workloads  
 
 Beyond ML systems, I have **extensive experience** in:
 - **Operating Systems Development**  
-- **Cloud Infrastructure** (Kubernetes, Docker, [AWS](https://aws.amazon.com/))  
+- **Cloud Infrastructure** (Kubernetes, Docker, <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">AWS</a>)  
 - **Database Systems** (Cloud-native Streaming Databases)  
 
 ---
 
 ## 🏆 **Notable Achievements**  
 - 🗣️ **Self-taught English in 3 months**  
-- 🎓 **Completed a Bachelor's in Computer Science at the [University of Rhode Island](https://www.uri.edu/) in 2 years**  
-- 🎓 **Earned a Master's in Computer Science (Systems specialization) from [Georgia Tech](https://www.cc.gatech.edu/) in just 1 year**  
+- 🎓 **Completed a Bachelor's in Computer Science at the <a href="https://www.uri.edu/" target="_blank" rel="noopener noreferrer">University of Rhode Island</a> in 2 years**  
+- 🎓 **Earned a Master's in Computer Science (Systems specialization) from <a href="https://www.cc.gatech.edu/" target="_blank" rel="noopener noreferrer">Georgia Tech</a> in just 1 year**  
 
 ---
 
 <table width="100%">
   <thead>
     <tr>
-      <!-- No more fixed width on TH elements; let them auto-size -->
-      <th style="text-align: left; padding-right: 50px;">💻 Tech Stack & Favorite Tools</th>
+      <th style="text-align: left; padding-right: 50px;">💻 Tech Stack &amp; Favorite Tools</th>
       <th style="text-align: left;">🏀 Beyond Coding</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- Remove white-space: nowrap to allow line breaks -->
       <td valign="top">
         <strong>Languages</strong><br>
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
@@ -47,3 +45,4 @@ Beyond ML systems, I have **extensive experience** in:
   </tbody>
 </table>
 
+---
