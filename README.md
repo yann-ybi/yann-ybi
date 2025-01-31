@@ -23,7 +23,7 @@ Beyond ML systems, I have **extensive experience** in:
 <table>
   <thead>
     <tr>
-      <th style="width:50%; text-align:center;">💻 Tech Stack & Favorite Tools                          </th>
+      <th style="width:80%; text-align:center;">💻 Tech Stack & Favorite Tools                          </th>
       <th style="width:50%; text-align:center;">🏀 Beyond Coding</th>
     </tr>
   </thead>
