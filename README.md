@@ -33,13 +33,13 @@ Beyond ML systems, I have **extensive experience** in:
         <strong>Languages</strong><br>
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
         • ⚡ C++/C<br>
-        • 🐍 Python ..........................................................................<br>
+        • 🐍 Python ...........................................................................<br>
       </td>
       <td valign="top">
-        When I’m not deep in system optimization:<br>
         • <strong>Playing basketball</strong> 🏀<br>
         • <strong>Watching anime</strong> 🎥<br>
-        • <strong>Learning Chinese Mandarin ..............................................</strong> 
+        • <strong>Learning Chinese Mandarin</strong> 
+        •&nbsp;<strong>Video&nbsp;games</strong>&nbsp;🎮&nbsp;(Favorite&nbsp;genres:&nbsp;Strategy,&nbsp;RPG,&nbsp;Open&nbsp;World)
       </td>
     </tr>
   </tbody>
