@@ -20,20 +20,28 @@ Beyond ML systems, I have **extensive experience** in:
 
 ---
 
-<div style="display: flex; gap: 20px; width: 100%; margin: 0 auto;">
-  <div style="flex: 1; border-right: 2px solid #e1e4e8; padding-right: 20px;">
-    <h3 align="center">💻 Tech Stack & Favorite Tools</h3>
-    <strong>Languages</strong><br>
-    • 🦀 <strong>Rust</strong> (Top Favorite)<br>
-    • ⚡ C++/C<br>
-    • 🐍 Python<br>
-  </div>
-
-  <div style="flex: 1; padding-left: 20px;">
-    <h3 align="center">🏀 Beyond Coding</h3>
-    When I'm not deep in system optimization:<br>
-    • <strong>Basketball</strong> 🏀 (SF/PF position)<br>
-    • <strong>Anime</strong> 🎥 (Current favorite: Jujutsu Kaisen)<br>
-    • <strong>Gaming</strong> 🎮 (Elden Ring enthusiast)<br>
-  </div>
-</div>
+<table width="100%">
+  <thead>
+    <tr>
+      <th style="width:60%; text-align:center;">💻 Tech Stack & Favorite Tools</th>
+      <th style="width:40%; text-align:center;">🏀 Beyond Coding</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <strong>Languages</strong><br>
+        • 🦀 <strong>Rust</strong> (Top Favorite)<br>
+        • ⚡ C++/C<br>
+        • 🐍 Python<br>
+      </td>
+      <td valign="top">
+        When I'm not deep in system optimization:<br>
+        • <strong>Playing basketball</strong> 🏀<br>
+        • <strong>Watching anime</strong> 🎥 (Always open to recommendations!)<br>
+        • <strong>Exploring video games</strong> 🎮 (Favorite genres: Strategy, RPG, Open World)
+        <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
