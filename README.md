@@ -23,24 +23,29 @@ Beyond ML systems, I have **extensive experience** in:
 <table>
   <thead>
     <tr>
-      <th style="width:80%; text-align:center;">💻 Tech Stack & Favorite Tools                          </th>
-      <th style="width:50%; text-align:center;">🏀 Beyond Coding</th>
+      <th style="width:60%; text-align:center;">💻 Tech Stack & Favorite Tools</th>
+      <th style="width:40%; text-align:center;">🏀 Beyond Coding</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td valign="top">
         <strong>Languages</strong><br>
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
-        • ⚡ C++ / C<br>
-        • 🐍 Python
+        • ⚡ C++/C<br>
+        • 🐍 Python<br>
       </td>
-      <td>
-        When I’m not deep in system optimization, you’ll find me:<br>
-        • <strong>Playing basketball</strong> 🏀<br>
-        • <strong>Watching anime</strong> 🎥 (Always open to recommendations!)<br>
-        • <strong>Exploring video games</strong> 🎮 (Favorite genres: Strategy, RPG, Open World)
+      <td valign="top">
+        When I'm not deep in system optimization:<br>
+        • <strong>Basketball</strong> 🏀 (SF/PF position)<br>
+        • <strong>Anime</strong> 🎥 (Current favorite: Jujutsu Kaisen)<br>
+        • <strong>Gaming</strong> 🎮 (Elden Ring enthusiast)<br>
+        <br>
+        Fun fact:<br>
+        🗣️ Learned English by watching<br>
+        The Office on repeat!
       </td>
     </tr>
   </tbody>
+</table>
 </table>
