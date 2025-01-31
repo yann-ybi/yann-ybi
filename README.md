@@ -33,7 +33,7 @@ Beyond ML systems, I have **extensive experience** in:
         <strong>Languages</strong><br>
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
         • ⚡ C++/C<br>
-        • 🐍 Python...........................................................................................<br>
+        • 🐍 Python.............................................................................<br>
       </td>
       <td valign="top">
         • <strong>Playing basketball</strong> 🏀<br>
