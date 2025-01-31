@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Yann! 👋  
+# H e l l o   W o r l d! 
 
 As a **computer systems enthusiast**, I specialize in **scalable and robust systems** for **large-scale AI**. My primary focus includes:  
 - **High-Performance & Parallel Computing** (CUDA, OpenMP)  
