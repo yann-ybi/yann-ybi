@@ -3,12 +3,12 @@
 As a **computer systems enthusiast**, I specialize in **scalable and robust systems**. My focus includes:  
 - **High-performance & parallel computing** (e.g., CUDA, OpenMP)  
 - **Distributed training** (e.g., EP, DP, PP, TP)  
-- **Machine learning frameworks** (e.g., PyTorch, TensorFlow)  
+- **Machine learning frameworks** (e.g., [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/))  
 - **Systems optimization for AI workloads**  
 
 Beyond ML systems, I have **extensive experience** in:  
 - **Operating systems development**  
-- **Cloud infrastructure** (Kubernetes, Docker, AWS)  
+- **Cloud infrastructure** (Kubernetes, Docker, [AWS](https://aws.amazon.com/))  
 - **Database systems** (Cloud-native Streaming Databases)  
 
 ---
@@ -20,29 +20,8 @@ Beyond ML systems, I have **extensive experience** in:
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-      
-        ## 💻 **Tech Stack & Favorite Tools:**  
-        ### **Languages:**  
-        - 🦀 **Rust** (Top Favorite)  
-        - ⚡ C++ / C  
-        - 🐍 Python  
-        
-      </td>
-      <td align="center" width="50%">
-      
-        ## 🏀 **Beyond Coding:**  
-        When I’m not deep in system optimization, you’ll probably find me:  
-        - **Playing basketball** 🏀  
-        - **Watching anime** 🎥 (Always open to recommendations!)  
-        - **Exploring video games** 🎮 (Favorite genres: Strategy, RPG, Open World)  
-      
-      </td>
-    </tr>
-  </table>
-</div>
+| ## 💻 **Tech Stack & Favorite Tools:** | ## 🏀 **Beyond Coding:** |
+|----------------------------------------|--------------------------|
+| ### **Languages:**<br>- 🦀 **Rust** (Top Favorite)<br>- ⚡ C++ / C<br>- 🐍 Python | When I’m not deep in system optimization, you’ll probably find me:<br>- **Playing basketball** 🏀<br>- **Watching anime** 🎥 (Always open to recommendations!)<br>- **Exploring video games** 🎮 (Favorite genres: Strategy, RPG, Open World) |
 
 ---
