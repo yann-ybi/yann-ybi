@@ -35,7 +35,6 @@ Beyond ML systems, I have **extensive experience** in:
         • ⚡ C++/C<br>
         • 🐍 Python<br>
       </td>
-      <td width="10%">&nbsp;</td>
       <td valign="top" width="55%">
         When I'm not deep in system optimization:<br>
         • <strong>Playing basketball</strong> 🏀<br>
