@@ -20,7 +20,7 @@ Beyond ML systems, I have **extensive experience** in:
 
 ---
 
-<table width="100%">
+<table width="150%">
   <thead>
     <tr>
       <th width="45%" align="left">💻 Tech Stack & Favorite Tools</th>
