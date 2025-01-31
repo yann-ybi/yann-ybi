@@ -20,6 +20,27 @@ Beyond ML systems, I have **extensive experience** in:
 
 ---
 
-| **💻 Tech Stack & Favorite Tools**                                                                                 | **🏀 Beyond Coding**                                                                                                                                                |
-|:-------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**<br>• 🦀 **Rust** (Top Favorite)<br>• ⚡ C++ / C<br>• 🐍 Python<br><br>**Focus Areas**<br>• Parallel Computing (CUDA, OpenMP)<br>• Cloud & DevOps (K8s, Docker)<br>• Backend (Rust, Node.js)<br>• Databases (PostgreSQL, RDS) | When I’m not deep in system optimization, you’ll find me:<br>• **Playing basketball** 🏀<br>• **Watching anime** 🎥 (Always open to recommendations!)<br>• **Exploring video games** 🎮 (Favorite genres: Strategy, RPG, Open World) |
+<table>
+  <thead>
+    <tr>
+      <th style="width:50%; text-align:center;">💻 Tech Stack & Favorite Tools</th>
+      <th style="width:50%; text-align:center;">🏀 Beyond Coding</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Languages</strong><br>
+        • 🦀 <strong>Rust</strong> (Top Favorite)<br>
+        • ⚡ C++ / C<br>
+        • 🐍 Python
+      </td>
+      <td>
+        When I’m not deep in system optimization, you’ll find me:<br>
+        • <strong>Playing basketball</strong> 🏀<br>
+        • <strong>Watching anime</strong> 🎥 (Always open to recommendations!)<br>
+        • <strong>Exploring video games</strong> 🎮 (Favorite genres: Strategy, RPG, Open World)
+      </td>
+    </tr>
+  </tbody>
+</table>
