@@ -20,26 +20,30 @@ Beyond ML systems, I have **extensive experience** in:
 
 ---
 
-<table width="150%">
+ <table width="100%">
   <thead>
     <tr>
-      <th width="45%" align="left">💻 Tech Stack & Favorite Tools</th>
-      <th width="75%" align="left">🏀 Beyond Coding</th>
+      <th width="50%" style="text-align: left; white-space: nowrap;">💻 Tech Stack & Favorite Tools</th>
+      <th width="50%" style="text-align: left; white-space: nowrap;">🏀 Beyond Coding</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top" width="45%">
-        <strong>Languages</strong><br>
-        • 🦀 <strong>Rust</strong> (Top Favorite)<br>
-        • ⚡ C++/C<br>
-        • 🐍 Python<br>
+      <td valign="top" width="50%" style="white-space: nowrap;">
+        <div style="display: inline-block;">
+          <strong>Languages</strong><br>
+          •&nbsp;🦀&nbsp;<strong>Rust</strong>&nbsp;(Top&nbsp;Favorite)<br>
+          •&nbsp;⚡&nbsp;C++/C<br>
+          •&nbsp;🐍&nbsp;Python<br>
+        </div>
       </td>
-      <td valign="top" width="75%">
-        When I'm not deep in system optimization:<br>
-        • <strong>Playing basketball</strong> 🏀<br>
-        • <strong>Watching anime</strong> 🎥 (Always open to recommendations!)<br>
-        • <strong>Video games</strong> 🎮 (Favorite genres: Strategy, RPG, Open World)<br>
+      <td valign="top" width="50%" style="white-space: nowrap;">
+        <div style="display: inline-block;">
+          When&nbsp;I'm&nbsp;not&nbsp;deep&nbsp;in&nbsp;system&nbsp;optimization:<br>
+          •&nbsp;<strong>Playing&nbsp;basketball</strong>&nbsp;🏀<br>
+          •&nbsp;<strong>Watching&nbsp;anime</strong>&nbsp;🎥&nbsp;(Always&nbsp;open&nbsp;to&nbsp;recommendations!)<br>
+          •&nbsp;<strong>Video&nbsp;games</strong>&nbsp;🎮&nbsp;(Favorite&nbsp;genres:&nbsp;Strategy,&nbsp;RPG,&nbsp;Open&nbsp;World)
+        </div>
       </td>
     </tr>
   </tbody>
