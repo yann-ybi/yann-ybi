@@ -39,7 +39,7 @@ Beyond ML systems, I have **extensive experience** in:
         When I'm not deep in system optimization:<br>
         • <strong>Playing basketball</strong> 🏀<br>
         • <strong>Watching anime</strong> 🎥 (Always open to recommendations!)<br>
-        • <strong>Video games</strong> 🎮 (Favorite genres: Strategy, RPG, Open World)
+        • <strong>Video games</strong> 🎮 (Favorite genres: Strategy, RPG, Open World)<br>
       </td>
     </tr>
   </tbody>
