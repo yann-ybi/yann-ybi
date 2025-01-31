@@ -24,8 +24,7 @@ Beyond ML systems, I have **extensive experience** in:
   <thead>
     <tr>
       <th width="45%" align="left">💻 Tech Stack & Favorite Tools</th>
-      <th width="10%"></th>
-      <th width="45%" align="left">🏀 Beyond Coding</th>
+      <th width="55%" align="left">🏀 Beyond Coding</th>
     </tr>
   </thead>
   <tbody>
@@ -37,7 +36,7 @@ Beyond ML systems, I have **extensive experience** in:
         • 🐍 Python<br>
       </td>
       <td width="10%">&nbsp;</td>
-      <td valign="top" width="45%">
+      <td valign="top" width="55%">
         When I'm not deep in system optimization:<br>
         • <strong>Playing basketball</strong> 🏀<br>
         • <strong>Watching anime</strong> 🎥 (Always open to recommendations!)<br>
