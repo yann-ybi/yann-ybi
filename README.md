@@ -20,8 +20,28 @@ Beyond ML systems, I have **extensive experience** in:
 
 ---
 
-| ## 💻 **Tech Stack & Favorite Tools:** | ## 🏀 **Beyond Coding:** |
-|----------------------------------------|--------------------------|
-| ### **Languages:**<br>- 🦀 **Rust** (Top Favorite)<br>- ⚡ C++ / C<br>- 🐍 Python | When I’m not deep in system optimization, you’ll probably find me:<br>- **Playing basketball** 🏀<br>- **Watching anime** 🎥 (Always open to recommendations!)<br>- **Exploring video games** 🎮 (Favorite genres: Strategy, RPG, Open World) |
+<div style="display: flex; justify-content: space-between; align-items: start;">
 
----
+  <div style="flex: 1; padding-right: 20px;">
+
+  ## 💻 Tech Stack & Favorite Tools  
+  - 🦀 **Rust** (Top Favorite)  
+  - ⚡ **C++ / C**  
+  - 🐍 **Python**  
+  - ☁️ **Cloud & DevOps:** Kubernetes, Docker, AWS  
+  - 💾 **Databases:** PostgreSQL, Streaming DB  
+  - ⚡ **Parallel Computing:** CUDA, OpenMP, MPI  
+  - 🤖 **Machine Learning:** PyTorch, TensorFlow  
+
+  </div>
+
+  <div style="flex: 1; padding-left: 20px;">
+
+  ## 🏀 Beyond Coding  
+  - **Playing basketball** 🏀  
+  - **Watching anime** 🎥 *(Always open to recommendations!)*  
+  - **Exploring video games** 🎮 *(Favorite genres: Strategy, RPG, Open World)*  
+
+  </div>
+
+</div>
