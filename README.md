@@ -23,24 +23,25 @@ Beyond ML systems, I have **extensive experience** in:
 <table width="100%">
   <thead>
     <tr>
-      <th style="width:60%; text-align:center;">💻 Tech Stack & Favorite Tools</th>
-      <th style="width:40%; text-align:center;">🏀 Beyond Coding</th>
+      <th width="45%" align="left">💻 Tech Stack & Favorite Tools</th>
+      <th width="10%"></th>
+      <th width="45%" align="left">🏀 Beyond Coding</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td valign="top" width="45%">
         <strong>Languages</strong><br>
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
         • ⚡ C++/C<br>
         • 🐍 Python<br>
       </td>
-      <td valign="top">
+      <td width="10%">&nbsp;</td>
+      <td valign="top" width="45%">
         When I'm not deep in system optimization:<br>
         • <strong>Playing basketball</strong> 🏀<br>
         • <strong>Watching anime</strong> 🎥 (Always open to recommendations!)<br>
         • <strong>Exploring video games</strong> 🎮 (Favorite genres: Strategy, RPG, Open World)
-        <br>
       </td>
     </tr>
   </tbody>
