@@ -20,31 +20,30 @@ Beyond ML systems, I have **extensive experience** in:
 
 ---
 
-<table width="100%" style="table-layout: fixed;">
+<table width="100%">
   <thead>
     <tr>
-      <th width="60%" style="text-align: left; white-space: nowrap; padding-right: 50px;">💻 Tech Stack & Favorite Tools</th>
-      <th width="40%" style="text-align: left; white-space: nowrap;">🏀 Beyond Coding</th>
+      <!-- No more fixed width on TH elements; let them auto-size -->
+      <th style="text-align: left; padding-right: 50px;">💻 Tech Stack & Favorite Tools</th>
+      <th style="text-align: left;">🏀 Beyond Coding</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top" width="60%" style="white-space: nowrap;">
-        <div style="display: inline-block;">
-          <strong>Languages</strong><br>
-          •&nbsp;🦀&nbsp;<strong>Rust</strong>&nbsp;(Top&nbsp;Favorite)<br>
-          •&nbsp;⚡&nbsp;C++/C<br>
-          •&nbsp;🐍&nbsp;Python<br>
-        </div>
+      <!-- Remove white-space: nowrap to allow line breaks -->
+      <td valign="top">
+        <strong>Languages</strong><br>
+        • 🦀 <strong>Rust</strong> (Top Favorite)<br>
+        • ⚡ C++/C<br>
+        • 🐍 Python............................................................................................<br>
       </td>
-      <td valign="top" width="40%" style="white-space: nowrap;">
-        <div style="display: inline-block;">
-          When&nbsp;I'm&nbsp;not&nbsp;deep&nbsp;in&nbsp;system&nbsp;optimization:<br>
-          •&nbsp;<strong>Playing&nbsp;basketball</strong>&nbsp;🏀<br>
-          •&nbsp;<strong>Watching&nbsp;anime</strong>&nbsp;🎥&nbsp;(Always&nbsp;open&nbsp;to&nbsp;recommendations!)<br>
-          •&nbsp;<strong>Video&nbsp;games</strong>&nbsp;🎮&nbsp;(Favorite&nbsp;genres:&nbsp;Strategy,&nbsp;RPG,&nbsp;Open&nbsp;World)
-        </div>
+      <td valign="top">
+        When I’m not deep in system optimization:<br>
+        • <strong>Playing basketball</strong> 🏀<br>
+        • <strong>Watching anime</strong> 🎥 (Always open to recommendations!)<br>
+        • <strong>Video games</strong> 🎮 (Favorite genres: Strategy, RPG, Open World)
       </td>
     </tr>
   </tbody>
 </table>
+
