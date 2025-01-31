@@ -16,8 +16,8 @@ Beyond ML systems, I have **extensive experience** in:
 ## 🏆 **Notable Achievements**  
 - 🗣️ **Self-taught English in 3 months**  
 - 🎓 **Completed a Bachelor's in Computer Science at the <a href="https://www.uri.edu/" target="_blank" rel="noopener noreferrer">University of Rhode Island</a> in 2 years**  
-- 🎓 **Earned a Master's in Computer Science (Systems specialization) from <a href="https://www.cc.gatech.edu/" target="_blank" rel="noopener noreferrer">Georgia Tech</a> in just 1 year**  
-
+- 🎓 **Earned a Master's in Computer Science (Systems specialization) from <a href="https://www.cc.gatech.edu/" target="_blank" rel="noopener noreferrer">Georgia Tech</a> in just 1 year**
+- 🏗️ **Solo built full-stack apps on App Store and Play Store** with hundreds of active users, such as: **<a href="https://youbikam.com" target="_blank" rel="noopener noreferrer">Youbikam</a>** and **<a href="https://maskofjanus.com/tosher/redirect" target="_blank" rel="noopener noreferrer">Tosher</a>**
 ---
 
 <table width="100%">
