@@ -41,9 +41,6 @@ Beyond ML systems, I have **extensive experience** in:
         • <strong>Anime</strong> 🎥 (Current favorite: Jujutsu Kaisen)<br>
         • <strong>Gaming</strong> 🎮 (Elden Ring enthusiast)<br>
         <br>
-        Fun fact:<br>
-        🗣️ Learned English by watching<br>
-        The Office on repeat!
       </td>
     </tr>
   </tbody>
