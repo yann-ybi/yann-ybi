@@ -2,7 +2,7 @@
 
 As a **computer systems enthusiast**, I specialize in **scalable and robust systems** for **large-scale AI**. My primary focus includes:  
 - **High-Performance & Parallel Computing** (CUDA, OpenMP)  
-- **Distributed Training** (EP, DP, PP, TP)  
+- **Distributed Training** 
 - **ML Frameworks** (<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">PyTorch</a>, <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">TensorFlow</a>)  
 - **Systems Optimization** for advanced AI workloads  
 
