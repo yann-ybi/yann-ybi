@@ -26,8 +26,8 @@ As a **computer systems enthusiast**, I'm interested in **scalable and robust sy
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td valign="top">
+    <tr>❤️
+      <td valign="top"> 
         <strong>Languages</strong><br>
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
         • ⚡ C++/C<br>
@@ -38,6 +38,7 @@ As a **computer systems enthusiast**, I'm interested in **scalable and robust sy
         • <strong>Playing basketball</strong> 🏀<br>
         • <strong>Watching anime</strong> 🎥<br>
         • <strong>Learning Chinese Mandarin</strong> <br>
+        • <strong>Spending Quality Time with Friends</strong>❤️<br>
         •&nbsp;<strong>Video&nbsp;games</strong>&nbsp;🎮&nbsp;(Favorite&nbsp;genres:&nbsp;Strategy,&nbsp;RPG,&nbsp;Open&nbsp;World)
       </td>
     </tr>
