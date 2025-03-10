@@ -31,7 +31,7 @@ As a **computer systems enthusiast**, I'm interested in **scalable and robust sy
       <td valign="top"> 
         <strong>Languages</strong><br>
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
-        • ⚡ C++/C<br>
+        • ⚡ C/C++<br>
         •&nbsp;🐍&nbsp;Python<br>
         • 🖥️ Shell in Linux Environment .........................................................<br>
       </td>
