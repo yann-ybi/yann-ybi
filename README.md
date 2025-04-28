@@ -2,14 +2,13 @@
 
 As a **computer systems enthusiast**, I'm interested in **scalable and robust systems**. My primary focus includes:  
 - **High-Performance & Parallel Computing** (CUDA, OpenMP)
-- **Quantum Computing**
 - **Systems Optimization** for advanced AI workloads  
 - **Operating Systems Development**
 - **Cloud Infrastructure** (Kubernetes, Docker, <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">AWS</a>)
 - **Database Systems** (Cloud-native Streaming Databases)
 - **Distributed Training** 
 - **ML Frameworks** (<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">PyTorch</a>, <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">TensorFlow</a>)  
-
+- **Quantum Computing**
 ---
 
 ## 🏆 **Notable Achievements**  
