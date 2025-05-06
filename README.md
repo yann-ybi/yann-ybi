@@ -1,5 +1,3 @@
-# H e l l o                         W o r l d! 
-
 As a **computer systems enthusiast**, I'm interested in **scalable and robust systems**. My primary focus includes:  
 - **High-Performance & Parallel Computing** (CUDA, OpenMP)
 - **Systems Optimization** for advanced AI workloads  
