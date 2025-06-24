@@ -5,7 +5,7 @@ As a **computer systems enthusiast**, I'm interested in **scalable and robust sy
 - **Cloud Infrastructure** (Kubernetes, Docker, <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">AWS</a>)
 - **Database Systems** (Cloud-native Streaming Databases)
 - **Distributed Training** 
-- **ML Frameworks** (PyShark, <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">PyTorch</a>, <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">TensorFlow</a>)
+- **ML Frameworks** (PySpark, <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">PyTorch</a>, <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">TensorFlow</a>)
 ---
 
 ## 🏆 **Notable Achievements**  
