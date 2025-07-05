@@ -35,7 +35,6 @@ As a **computer systems enthusiast**, I'm interested in **scalable and robust sy
       <td valign="top">
         • <strong>Playing basketball</strong> 🏀<br>
         • <strong>Watching anime</strong> 🎥<br>
-        • <strong>Spending Quality Time with Friends</strong>❤️<br>
         • <strong>Building new things and Entrepeneurship</strong>❤️<br>
         •&nbsp;<strong>Video&nbsp;games</strong>&nbsp;🎮&nbsp;(Favorite&nbsp;genres:&nbsp;Strategy,&nbsp;RPG,&nbsp;Open&nbsp;World)
       </td>
