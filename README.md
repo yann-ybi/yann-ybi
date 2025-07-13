@@ -14,7 +14,7 @@ As a **computer systems enthusiast**, I'm interested in **scalable and robust sy
 - 🚪 **Admitted to Georgia Tech Master’s program after just 1 year of undergraduate CS at URI.**
 - 🎓 **Earned a Master's in Computer Science (Systems specialization) from <a href="https://www.cc.gatech.edu/" target="_blank" rel="noopener noreferrer">Georgia Tech</a> in just 1 year**
 - 🏗️ **Solo built apps on App Store and Play Store** with hundreds of active users, such as: **<a href="https://sladow.com" target="_blank" rel="noopener noreferrer">Sladow</a>**, **<a href="https://apps.apple.com/us/app/slad/id6743825305" target="_blank" rel="noopener noreferrer">Slad</a>**, **<a href="https://youbikam.com" target="_blank" rel="noopener noreferrer">YoubiKam</a>**, **<a href="https://maskofjanus.com/tosher/redirect" target="_blank" rel="noopener noreferrer">Tosher</a>**, **<a href="https://offtale.com" target="_blank" rel="noopener noreferrer">Offtale</a>**
-- 🍎 **Working at Apple as an Engineer**
+- 🍎 **I work at Apple as an Engineer. I work on AI/ML, Distributed Systems and Data curation**
 ---
 
 <table width="100%">
