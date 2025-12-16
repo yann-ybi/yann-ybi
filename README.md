@@ -22,14 +22,14 @@
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
         • ⚡ C/C++<br>
         •&nbsp;🐍&nbsp;Python<br>
-        • 🖥️ Shell in Linux Environment.<br>
+        <!-- • 🖥️ Shell in Linux Environment.<br> -->
       </td>
       <td valign="top">
         • <strong>Playing basketball</strong> 🏀<br>
         • <strong>Watching anime</strong> 🎥<br>
         • <strong>Building new things and Entrepeneurship</strong>❤️<br>
         •&nbsp;<strong>Video&nbsp;games</strong>&nbsp;🎮&nbsp;(Favorite&nbsp;genres:&nbsp;Strategy,&nbsp;RPG,&nbsp;Open&nbsp;World)
-        • <strong>League of Legends</strong>
+        <!-- • <strong>League of Legends</strong> -->
       </td>
     </tr>
   </tbody>
