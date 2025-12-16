@@ -29,7 +29,7 @@
         • <strong>Watching anime</strong> 🎥<br>
         • <strong>Building new things and Entrepeneurship</strong>❤️<br>
         •&nbsp;<strong>Video&nbsp;games</strong>&nbsp;🎮&nbsp;(Favorite&nbsp;genres:&nbsp;Strategy,&nbsp;RPG,&nbsp;Open&nbsp;World)
-        •&nbsp;<strong>League of Legends</strong>
+        • <strong>League of Legends</strong>
       </td>
     </tr>
   </tbody>
