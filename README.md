@@ -22,7 +22,7 @@
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
         • ⚡ C/C++<br>
         •&nbsp;🐍&nbsp;Python<br>
-        • 🖥️ Shell in Linux Environment ............................<br>
+        • 🖥️ Shell in Linux Environment.<br>
       </td>
       <td valign="top">
         • <strong>Playing basketball</strong> 🏀<br>
