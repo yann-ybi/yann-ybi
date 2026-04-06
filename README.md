@@ -22,7 +22,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>❤️
+    <tr>
       <td valign="top"> 
         <strong>Languages</strong><br>
         • 🦀 <strong>Rust</strong> (Top Favorite)<br>
