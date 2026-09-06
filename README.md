@@ -1,7 +1,7 @@
 ## 🏆 **Recent Notable Achievements**  
 -  3 months in, I was selected as the DRI (Directly Responsible Individual) for the full scope of responsibilities previously handled by a high-profile 15-year Apple software engineer publicly associated with figures such as Elon Musk, Sam Altman, and MrBeast.
 
--  I specialize in turning broken technical systems into scalable, automated infrastructure. Currently serving as the Lead DRI for multiple high-profile data verticals at Apple, where I manage over half a million dollars in annual project spend and oversee the end-to-end technical health of our ingestion pipelines.
+-  I specialize in turning broken technical systems into scalable, automated infrastructure. Currently serving as the Lead DRI for multiple high-profile data verticals at Apple
 
 -  Beyond oversight, I am a builder. I’ve architected custom automation tools that reduced manual auditing time from days to minutes and am currently leading a major systems migration and dashboard rebuild to provide Director-level visibility into department operations.
 
