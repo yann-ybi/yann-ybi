@@ -1,43 +1,62 @@
-## 🏆 **Recent Notable Achievements**  
--  3 months in, I was selected as the DRI (Directly Responsible Individual) for the full scope of responsibilities previously handled by a high-profile 15-year Apple software engineer publicly associated with figures such as Elon Musk, Sam Altman, and MrBeast.
+# Founder & CEO · Slad
 
--  Led and resolved a critical infrastructure issue that had frozen systems across multiple departments for 2 months, unblocking teams and restoring operational continuity. The disruption had stalled active projects and frozen budget allocation.
+**Slad — a Sovereign AI OS Engine. Performance-SLA Enforced.**
 
--  I’ve architected custom automation tools that reduced manual work time from days to minutes and led a major systems migration and dashboard rebuild to provide Director-level visibility into department operations.
+Technical Executive and Enterprise Architect scaling complex distributed infrastructure and autonomous software systems at relentless velocity. Former senior-level engineer on **Apple's AI/ML team**.
 
-## 🏆 **Prior Notable Achievements**  
-- 🗣️ **Self-taught English in 3 months and passed the TOEFL exam for U.S undergrad admission**  
-- 🎓 **Completed a Bachelor's in Computer Science at the <a href="https://www.uri.edu/" target="_blank" rel="noopener noreferrer">University of Rhode Island</a> in 2 years**
-- 🚪 **Admitted to Georgia Tech Master’s program after just 1 year of undergraduate CS at URI.**
-- 🎓 **Earned a Master's in Computer Science (Systems specialization) from <a href="https://www.cc.gatech.edu/" target="_blank" rel="noopener noreferrer">Georgia Tech</a> in just 1 year**
+I designed Slad to systematically isolate hidden ecosystem-level leakages, contractually expand financial margins, and deliver pure ROI directly to the ledger.
 
 ---
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th style="text-align: left; padding-right: 50px;">💻 Tech Stack &amp; Favorite Tools</th>
-      <th style="text-align: left;">🏀 Beyond Coding</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top"> 
-        <strong>Languages</strong><br>
-        • 🦀 <strong>Rust</strong> (Top Favorite)<br>
-        • ⚡ C/C++<br>
-        •&nbsp;🐍&nbsp;Python<br>
-        <!-- • 🖥️ Shell in Linux Environment.<br> -->
-      </td>
-      <td valign="top">
-        • <strong>Playing basketball</strong> 🏀<br>
-        • <strong>Watching anime</strong> 🎥<br>
-        • <strong>Building new things and Entrepeneurship</strong>❤️<br>
-        •&nbsp;<strong>Video&nbsp;games</strong>&nbsp;🎮&nbsp;(Favorite&nbsp;genres:&nbsp;Strategy,&nbsp;RPG,&nbsp;Open&nbsp;World)
-        <!-- • <strong>League of Legends</strong> -->
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Baseline: Relentless Execution
+
+- **B.S. Computer Science** — completed in **2 years**
+- **M.S. Systems, Georgia Tech** — completed in **1 year**
+- **Apple AI/ML** — senior-level engineering role on critical infrastructure
 
 ---
+
+## Track Record
+
+### Sovereign System Execution
+Three months into my tenure at Apple AI/ML, I assumed full operational portfolio ownership previously managed by a 15-year veteran systems engineer. I re-engineered a fragile, manual runtime framework into an **automated, ahead-of-time compiled infrastructure**, collapsing operational latencies **from weeks to minutes**.
+
+### Mass Programmatic Scale & Optimization
+I isolate critical backend bottlenecks to scale distributed pipelines.
+
+| Metric | Result |
+|---|---|
+| Core metadata ingestion step | **15× faster** |
+| Candidate data streams | **1,000 → 970,000+ nodes** |
+| Pipeline throughput | **200× increase** |
+| Automated optimization metrics | **~1.7M generated annually** |
+
+### Systemic Auditing & Outage Resolution
+- Engineered the **global fix for a month-long, division-wide outage** that had frozen critical production systems.
+- Caught a critical upstream data-quality error across **90,000 device nodes**, stripping a **30% artificial inflation signature** out of the analytics ledgers.
+
+---
+
+## Slad
+
+> Operated under an ironclad, contractually enforced **Performance-SLA**, Slad bypasses internal complexity to deliver pure commercial ROI directly to your ledger.
+
+- **Sovereign AI OS Engine** — autonomous systems that own the outcome end to end
+- **Leakage isolation** — surfaces hidden ecosystem-level revenue and margin loss
+- **Performance-SLA enforced** — results are contractual, not aspirational
+
+[slad.win](https://slad.win)
+
+---
+
+## Focus Areas
+
+`Distributed Systems` · `AI/ML Infrastructure` · `Ahead-of-Time Compilation` · `Data Pipelines at Scale` · `Data Quality & Auditing` · `Autonomous Software Systems` · `Enterprise Architecture`
+
+---
+
+## Connect
+
+- Website: [slad.win](https://slad.win)
+- LinkedIn: [yann-ybi](https://www.linkedin.com/in/yann-ybi/)
+- Email: [yann@slad.win](mailto:yann@slad.win)
