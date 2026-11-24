@@ -1,62 +1,39 @@
-# Founder & CEO · Slad
+# Yann Youbi
 
-**Slad — a Sovereign AI OS Engine. Performance-SLA Enforced.**
+AI/ML and systems engineer in Atlanta. Former Apple AI/ML engineer (Siri Knowledge). M.S. in Computer Science (Computer Systems), Georgia Tech.
 
-Technical Executive and Enterprise Architect scaling complex distributed infrastructure and autonomous software systems at relentless velocity. Former senior-level engineer on **Apple's AI/ML team**.
-
-I designed Slad to systematically isolate hidden ecosystem-level leakages, contractually expand financial margins, and deliver pure ROI directly to the ledger.
+I build large-scale curation and evaluation pipelines, data-quality tooling, and production Python and Rust systems.
 
 ---
 
-## Baseline: Relentless Execution
+## Apple, AI/ML, Siri Knowledge · 06/2025 to 09/2026
 
-- **B.S. Computer Science** — completed in **2 years**
-- **M.S. Systems, Georgia Tech** — completed in **1 year**
-- **Apple AI/ML** — senior-level engineering role on critical infrastructure
+Software Engineer, Human Curation and Evaluation Pipelines
 
----
-
-## Track Record
-
-### Sovereign System Execution
-Three months into my tenure at Apple AI/ML, I assumed full operational portfolio ownership previously managed by a 15-year veteran systems engineer. I re-engineered a fragile, manual runtime framework into an **automated, ahead-of-time compiled infrastructure**, collapsing operational latencies **from weeks to minutes**.
-
-### Mass Programmatic Scale & Optimization
-I isolate critical backend bottlenecks to scale distributed pipelines.
-
-| Metric | Result |
-|---|---|
-| Core metadata ingestion step | **15× faster** |
-| Candidate data streams | **1,000 → 970,000+ nodes** |
-| Pipeline throughput | **200× increase** |
-| Automated optimization metrics | **~1.7M generated annually** |
-
-### Systemic Auditing & Outage Resolution
-- Engineered the **global fix for a month-long, division-wide outage** that had frozen critical production systems.
-- Caught a critical upstream data-quality error across **90,000 device nodes**, stripping a **30% artificial inflation signature** out of the analytics ledgers.
+- **Scale:** grew candidate data from about 1,000 to 970,000+ rows and curation tasks from 334 to 72,559 (about 200x, about 1.7M tasks a year).
+- **Pipeline modernization:** moved a stalled pipeline from local shell scripts to scheduled Airflow workflows with Bazel builds, cutting days-to-weeks of manual work to minutes. Fixed ingestion, raising facts ingested into the knowledge base about 15x.
+- **Self-calibrating pipeline:** replaced fixed per-intent limits with an automated feedback loop that sets each step's budget from its measured conversion rate.
+- **Labeling oversight:** built an automated auditor that diagnoses whether quality issues come from guidelines, model errors or rater mistakes.
+- **Data quality:** found about 90,000 device commands misclassified upstream as knowledge queries, which inflated interaction counts by about 30%.
+- **Ownership:** took over the full portfolio of a 15-year engineer within three months; led resolution of a month-long outage across the department.
 
 ---
 
-## Slad
+## Independent project: Slad · 09/2026 to present
 
-> Operated under an ironclad, contractually enforced **Performance-SLA**, Slad bypasses internal complexity to deliver pure commercial ROI directly to your ledger.
-
-- **Sovereign AI OS Engine** — autonomous systems that own the outcome end to end
-- **Leakage isolation** — surfaces hidden ecosystem-level revenue and margin loss
-- **Performance-SLA enforced** — results are contractual, not aspirational
-
-[slad.win](https://slad.win)
+A prediction system that forecasts customer conversion from live interaction data, with closed-loop feedback pipelines that update its predictions and routing from real-world outcomes. Production voice and text agents for scheduling and client communication. [slad.win](https://slad.win)
 
 ---
 
-## Focus Areas
+## Education
 
-`Distributed Systems` · `AI/ML Infrastructure` · `Ahead-of-Time Compilation` · `Data Pipelines at Scale` · `Data Quality & Auditing` · `Autonomous Software Systems` · `Enterprise Architecture`
+- **Georgia Tech**, M.S. Computer Science (Computer Systems), GPA 3.7, completed in 1 year
+- **University of Rhode Island**, B.S. Computer Science, completed in 2 years; TA for Computer Architecture and Rust
 
----
+## Skills
 
-## Connect
+Python · Rust · Swift · C/C++ · SQL · Airflow · Bazel · Spark · ETL · evaluation and annotation tooling · TensorFlow · AWS
 
-- Website: [slad.win](https://slad.win)
-- LinkedIn: [yann-ybi](https://www.linkedin.com/in/yann-ybi/)
-- Email: [yann@slad.win](mailto:yann@slad.win)
+## Contact
+
+[youbi.yann@gmail.com](mailto:youbi.yann@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yann-ybi/)
