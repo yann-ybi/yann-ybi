@@ -6,7 +6,7 @@ I build large-scale curation and evaluation pipelines, data-quality tooling, and
 
 ---
 
-## Apple, AI/ML, Siri Knowledge · 06/2025 to 09/2026
+## Apple, AI/ML, Siri Knowledge · 05/2025 to 09/2026
 
 Software Engineer, Human Curation and Evaluation Pipelines
 
